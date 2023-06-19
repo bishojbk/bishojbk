@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @bishojbk
 - 👀 I’m interested in web designing..
 - 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on nothing right now. Need somebody to mentor me
-- 📫 How to reach me. =>through facebook
+- 💞️ I’m looking to engage in projects.
+- 📫 How to reach me. =>through email.
 
 <!---
 bishojbk/bishojbk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
