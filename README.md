@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @bishojbk
-- 👀 I’m interested in web designing..
-- 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to engage in projects.
-- 📫 How to reach me. =>through email.
+### Hey, I'm Bisoj
 
-<!---
-bishojbk/bishojbk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Software engineer from Kathmandu. I build developer tools and web apps.
+
+#### What I'm working on
+
+- [Claude Usage](https://github.com/bishojbk/claude-usage) — macOS menu bar app that shows your Claude AI usage limits in real time
+- [DevIcon Kit](https://github.com/bishojbk/dev-icons) — Developer icon collection
+
+#### Elsewhere
+
+[Portfolio](https://portfolio-2025-bisoj.vercel.app/)
